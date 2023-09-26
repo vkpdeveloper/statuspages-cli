@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"vkpdeveloper/atlasian-cli/ui"
-	"vkpdeveloper/atlasian-cli/utils"
+	"vkpdeveloper/statuspages-cli/ui"
+	"vkpdeveloper/statuspages-cli/utils"
 )
 
 func main() {

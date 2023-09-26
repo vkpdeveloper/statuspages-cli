@@ -2,8 +2,8 @@ package utils
 
 import (
 	"fmt"
-	"vkpdeveloper/atlasian-cli/config"
-	"vkpdeveloper/atlasian-cli/types"
+	"vkpdeveloper/statuspages-cli/config"
+	"vkpdeveloper/statuspages-cli/types"
 )
 
 type StatusPageClient struct {

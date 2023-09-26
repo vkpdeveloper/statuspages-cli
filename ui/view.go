@@ -2,7 +2,7 @@ package ui
 
 import (
 	"time"
-	"vkpdeveloper/atlasian-cli/utils"
+	"vkpdeveloper/statuspages-cli/utils"
 
 	"github.com/charmbracelet/bubbles/list"
 	"github.com/charmbracelet/bubbles/table"
